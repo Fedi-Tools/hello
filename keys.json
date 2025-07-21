@@ -20,5 +20,16 @@
     "plan_type": "day",
     "plan_amount": 10,
     "redeemed_at": null
+  },
+  {
+    "key": "BANANA-FIVEM-9TLP-VUUQ",
+    "macho_key": "null",
+    "expires": "2125-07-13T00:00:00.000Z",
+    "redeemed": false,
+    "user_id": "null",
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": "null"
   }
 ]
