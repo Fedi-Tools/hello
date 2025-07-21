@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "key": "BANANA-FIVEM-0B1A0891-A5B8",
+    "macho_key": "BANANA-FIVEM-271E9E83-8263",
+    "expires": "2025-07-28T14:40:46.531Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "1",
+    "plan_amount": 1,
+    "redeemed_at": null
+  }
+]
