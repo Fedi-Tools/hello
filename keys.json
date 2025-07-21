@@ -1,16 +1,5 @@
 [
   {
-    "key": "BANANA-FIVEM-0B1A0891-A5B8",
-    "macho_key": "BANANA-FIVEM-271E9E83-8263",
-    "expires": "2025-07-28T14:40:46.531Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "1",
-    "plan_amount": 1,
-    "redeemed_at": null
-  },
-  {
     "key": "BANANA-FIVEM-946D0D89-0CF8",
     "macho_key": "BANANA-FIVEM-93C04711-87E3",
     "expires": "2025-07-28T15:03:02.125Z",
@@ -18,17 +7,6 @@
     "user_id": null,
     "blacklisted": false,
     "plan_type": "2",
-    "plan_amount": 1,
-    "redeemed_at": null
-  },
-  {
-    "key": "BANANA-FIVEM-239792F0-9E5E",
-    "macho_key": "BANANA-FIVEM-7B09A7F4-0C90",
-    "expires": "2025-07-22T15:11:56.044Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "day",
     "plan_amount": 1,
     "redeemed_at": null
   }
