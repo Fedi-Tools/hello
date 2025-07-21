@@ -11,13 +11,13 @@
     "redeemed_at": null
   },
   {
-    "key": "BANANA-FIVEM-0248F04C-751F",
-    "macho_key": "BANANA-FIVEM-BB628029-1028",
-    "expires": "2025-07-28T15:01:50.141Z",
+    "key": "BANANA-FIVEM-946D0D89-0CF8",
+    "macho_key": "BANANA-FIVEM-93C04711-87E3",
+    "expires": "2025-07-28T15:03:02.125Z",
     "redeemed": false,
     "user_id": null,
     "blacklisted": false,
-    "plan_type": "1",
+    "plan_type": "2",
     "plan_amount": 1,
     "redeemed_at": null
   }
