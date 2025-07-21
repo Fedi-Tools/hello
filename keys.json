@@ -20,5 +20,16 @@
     "plan_type": "2",
     "plan_amount": 1,
     "redeemed_at": null
+  },
+  {
+    "key": "BANANA-FIVEM-239792F0-9E5E",
+    "macho_key": "BANANA-FIVEM-7B09A7F4-0C90",
+    "expires": "2025-07-22T15:11:56.044Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 1,
+    "redeemed_at": null
   }
 ]
