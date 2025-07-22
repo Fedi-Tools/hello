@@ -1,112 +1,13 @@
 [
   {
-    "key": "BANANA-FIVEM-0B1A0891-A5B8",
-    "macho_key": "BANANA-FIVEM-271E9E83-8263",
-    "expires": "2025-07-28T14:40:46.531Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "1",
-    "plan_amount": 1,
-    "redeemed_at": null
-  },
-  {
-    "key": "BANANA-FIVEM-931E17E3-71D9",
-    "macho_key": "BANANA-FIVEM-09A6DF8B-054E",
-    "expires": "2025-07-31T15:17:05.126Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": 10,
-    "redeemed_at": null
-  },
-  {
-    "key": "BANANA-FIVEM-9TLP-VUUQ",
-    "macho_key": "null",
-    "expires": "2125-07-13T00:00:00.000Z",
-    "redeemed": false,
-    "user_id": "null",
+    "key": "4CMenu-pCa9-LGYR-WT",
+    "macho_key": "MACHO-FIVEM-RLYMC-YHUUB",
+    "expires": "2125-07-13T21:45:51.290Z",
+    "redeemed": true,
+    "user_id": "1152247931043328000",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": "null"
-  },
-  {
-    "key": "BANANA-FIVEM-88B354DF-E933",
-    "macho_key": "nami",
-    "expires": "2025-07-22T15:28:42.304Z",
-    "redeemed": true,
-    "user_id": "261226886099632128",
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": null,
-    "redeemed_at": "2025-07-21T15:28:54.910Z"
-  },
-  {
-    "key": "BANANA-FIVEM-AC6985A0-E182",
-    "macho_key": "null",
-    "expires": "2025-12-22T01:35:24.183Z",
-    "redeemed": false,
-    "user_id": "null",
-    "blacklisted": false,
-    "plan_type": "month",
-    "plan_amount": 5,
-    "redeemed_at": "null"
-  },
-  {
-    "key": "BANANA-FIVEM-F8D90DCD-1616014F",
-    "macho_key": "ras zebi",
-    "expires": "2025-08-01T01:38:20.750Z",
-    "redeemed": true,
-    "user_id": "261226886099632128",
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": 10,
-    "redeemed_at": "2025-07-22T01:39:45.878Z"
-  },
-  {
-    "key": "BANANA-FIVEM-8CF73B13-F6686041",
-    "macho_key": "aaaaaaaaaaaa",
-    "expires": "2026-05-22T01:41:04.371Z",
-    "redeemed": true,
-    "user_id": "261226886099632128",
-    "blacklisted": false,
-    "plan_type": "month",
-    "plan_amount": 10,
-    "redeemed_at": "2025-07-22T01:41:18.640Z"
-  },
-  {
-    "key": "BANANA-FIVEM-9530BAEA-25D68D22",
-    "macho_key": "ffffffff",
-    "expires": "2025-07-23T01:41:51.807Z",
-    "redeemed": true,
-    "user_id": "261226886099632128",
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": 1,
-    "redeemed_at": "2025-07-22T01:42:03.907Z"
-  },
-  {
-    "key": "4CMenu-7a4e23ee-6218",
-    "macho_key": "nul",
-    "expires": "2025-07-23T02:05:49.289Z",
-    "redeemed": false,
-    "user_id": "null",
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": 1,
-    "redeemed_at": "null"
-  },
-  {
-    "key": "4CMenu-de7c473d-fc6d",
-    "macho_key": "nul",
-    "expires": "2025-07-23T02:09:18.296Z",
-    "redeemed": false,
-    "user_id": "null",
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": 1,
-    "redeemed_at": "null"
+    "redeemed_at": "2025-07-13T21:47:42.273Z"
   }
 ]
