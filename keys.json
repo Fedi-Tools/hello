@@ -97,5 +97,16 @@
     "plan_type": "day",
     "plan_amount": 1,
     "redeemed_at": "null"
+  },
+  {
+    "key": "4CMenu-11db0101-a61d",
+    "macho_key": "nul",
+    "expires": "2025-07-23T02:06:41.556Z",
+    "redeemed": false,
+    "user_id": "null",
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 1,
+    "redeemed_at": "null"
   }
 ]
