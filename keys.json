@@ -56,13 +56,13 @@
   },
   {
     "key": "BANANA-FIVEM-F8D90DCD-1616014F",
-    "macho_key": "nul",
+    "macho_key": "ras zebi",
     "expires": "2025-08-01T01:38:20.750Z",
-    "redeemed": false,
-    "user_id": "null",
+    "redeemed": true,
+    "user_id": "261226886099632128",
     "blacklisted": false,
     "plan_type": "day",
     "plan_amount": 10,
-    "redeemed_at": "null"
+    "redeemed_at": "2025-07-22T01:39:45.878Z"
   }
 ]
