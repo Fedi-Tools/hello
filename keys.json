@@ -67,13 +67,13 @@
   },
   {
     "key": "BANANA-FIVEM-8CF73B13-F6686041",
-    "macho_key": "nul",
+    "macho_key": "aaaaaaaaaaaa",
     "expires": "2026-05-22T01:41:04.371Z",
-    "redeemed": false,
-    "user_id": "null",
+    "redeemed": true,
+    "user_id": "261226886099632128",
     "blacklisted": false,
     "plan_type": "month",
     "plan_amount": 10,
-    "redeemed_at": "null"
+    "redeemed_at": "2025-07-22T01:41:18.640Z"
   }
 ]
