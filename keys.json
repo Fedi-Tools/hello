@@ -42,5 +42,16 @@
     "plan_type": "day",
     "plan_amount": null,
     "redeemed_at": "2025-07-21T15:28:54.910Z"
+  },
+  {
+    "key": "BANANA-FIVEM-0D0BAB40-B5D2",
+    "macho_key": "null",
+    "expires": "2025-08-01T01:33:47.422Z",
+    "redeemed": false,
+    "user_id": "null",
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 10,
+    "redeemed_at": "null"
   }
 ]
